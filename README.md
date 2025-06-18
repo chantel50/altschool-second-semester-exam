@@ -35,3 +35,4 @@ This project is part of a hands-on cloud engineering exam focused on provisionin
 ### 2. 🔌 SSH Into the Server
 ```bash
 ssh -i "altschool-keypair.pem" ubuntu@54.75.131.134
+![Image Alt](https://github.com/chantel50/altschool-second-semester-exam/blob/b922dfcb7c54ab9cceebb01c84a132e8975b0096/Screenshot%202025-06-17%20081335.png)
